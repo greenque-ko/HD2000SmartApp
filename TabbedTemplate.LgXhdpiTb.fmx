@@ -1,0 +1,142 @@
+inherited TabbedForm_LgXhdpiTb: TTabbedForm_LgXhdpiTb
+  ClientHeight = 829
+  ClientWidth = 480
+  DesignerMasterStyle = 3
+  inherited HeaderToolBar: TToolBar
+    Size.Width = 480.000000000000000000
+    inherited ToolBarLabel: TLabel
+      Size.Width = 480.000000000000000000
+    end
+  end
+  inherited TabControl1: TTabControl
+    Size.Width = 480.000000000000000000
+    Size.Height = 781.000000000000000000
+    Sizes = (
+      480s
+      732s
+      480s
+      732s
+      480s
+      732s
+      480s
+      732s
+      480s
+      732s
+      480s
+      732s
+      480s
+      732s)
+    inherited TabItem1: TTabItem
+      Size.Width = 68.000000000000000000
+      ExplicitSize.cx = 50.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited Sco: TRectangle
+        Size.Width = 480.000000000000000000
+        Size.Height = 732.000000000000000000
+      end
+      inherited ScrollBox2: TScrollBox
+        Size.Width = 480.000000000000000000
+        Size.Height = 732.000000000000000000
+        Viewport.Width = 480.000000000000000000
+        Viewport.Height = 732.000000000000000000
+        inherited Memo1: TMemo
+          Size.Width = 480.000000000000000000
+          Size.Height = 546.000000000000000000
+          Viewport.Width = 480.000000000000000000
+          Viewport.Height = 546.000000000000000000
+        end
+        inherited btnSendData: TButton
+          Size.Width = 529.000000000000000000
+        end
+        inherited btnChangeIP: TButton
+          Size.Width = 177.000000000000000000
+        end
+      end
+    end
+    inherited TabItem2: TTabItem
+      Size.Width = 68.000000000000000000
+      ExplicitSize.cx = 50.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited TabControl_Monitor: TTabControl
+        Size.Width = 480.000000000000000000
+        Size.Height = 732.000000000000000000
+        Sizes = (
+          480s
+          683s
+          480s
+          683s
+          480s
+          683s
+          480s
+          683s)
+        inherited Monitoring: TTabItem
+          Size.Width = 120.000000000000000000
+          ExplicitSize.cx = 168.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+          inherited recMonitoring: TRectangle
+            Size.Width = 480.000000000000000000
+            Size.Height = 683.000000000000000000
+          end
+          inherited scrollboxMonitoring: TScrollBox
+            Size.Width = 480.000000000000000000
+            Size.Height = 683.000000000000000000
+            Viewport.Width = 480.000000000000000000
+            Viewport.Height = 683.000000000000000000
+          end
+        end
+        inherited Alarm_Status: TTabItem
+          Size.Width = 120.000000000000000000
+          ExplicitSize.cx = 168.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+        end
+        inherited Operating_Mode: TTabItem
+          Size.Width = 120.000000000000000000
+          ExplicitSize.cx = 168.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+        end
+        inherited Setpoint: TTabItem
+          Size.Width = 120.000000000000000000
+          ExplicitSize.cx = 171.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+        end
+      end
+    end
+    inherited TabItem3: TTabItem
+      Size.Width = 68.000000000000000000
+      ExplicitSize.cx = 50.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited ButtonCreatePdf: TButton
+        Size.Width = 480.000000000000000000
+      end
+      inherited ImageLogo: TImage
+        MultiResBitmap.LoadSize = 2
+      end
+      inherited ImageViewer: TImageViewer
+        Size.Width = 480.000000000000000000
+        Size.Height = 688.000000000000000000
+        Viewport.Width = 480.000000000000000000
+        Viewport.Height = 688.000000000000000000
+      end
+    end
+    inherited TabItem4: TTabItem
+      Size.Width = 68.000000000000000000
+      ExplicitSize.cx = 50.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+    end
+    inherited TabItem5: TTabItem
+      Size.Width = 68.000000000000000000
+      ExplicitSize.cx = 54.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+    end
+    inherited TabItem6: TTabItem
+      Size.Width = 68.000000000000000000
+      ExplicitSize.cx = 54.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+    end
+    inherited TabItem7: TTabItem
+      Size.Width = 72.000000000000000000
+      ExplicitSize.cx = 60.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+    end
+  end
+end

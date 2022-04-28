@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="R3CR900WKCK" Android64="R3CR900WKCK"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.183,=C:\Work\Delphi\Android\Utils\pdf-lib\apdflibrary\Library\pdfbox.jar</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.901,C:\Work\Delphi\Android\Utils\pdf-lib\apdflibrary\Examples\DelphiSupportLibrary\Main.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.942,=C:\Work\Delphi\Android\Utils\pdf-lib\apdflibrary\Examples\DelphiSupportLibrary\Main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.137,C:\Work\Delphi\Android\Utils\pdf-lib\apdflibrary\Library\pdfbox.jar=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.664,=C:\Work\Delphi\Android\Utils\pdf-lib\apdflibrary\Library\pdfbox.jar</Transaction>
+    <Transaction>2022-04-28 16:13:45.914,C:\Work\Delphi\SmartPhoneApp\HD2000SmartPhone.dproj=C:\Work\Delphi\SmartPhoneApp\TabbedApplication.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
